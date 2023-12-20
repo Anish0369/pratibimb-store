@@ -80,7 +80,7 @@ const Home = (props) => {
                   hover:bg-green-900
                   
                   "
-                    onClick={() => navigate("/shop")}
+                    onClick={() => navigate("/home")}
                   >
                     Explore Now
                   </div>
